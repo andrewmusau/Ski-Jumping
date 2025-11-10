@@ -1,5 +1,4 @@
 # Ski-Jumping
-This replicates the analysis in 
 This repository contains replication files for the empirical results in Haugen, Kjetil K. & Musau, Andrew (2025). Do Subjective and Compensatory Scores Matter? An Empirical Analysis of Ski Jumping Competitions. Sports Economics Review (SER), 100061. doi: 10.1016/j.serev.2025.100061.
 
 File Descriptions
